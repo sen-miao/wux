@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const sayHello = require('../lib')
+
+sayHello()
